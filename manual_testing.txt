@@ -1,0 +1,7 @@
+You can try these on http://127.0.0.1:8000/docs
+
+{
+    "question": "The question asks to use gpt-3.5-turbo-0125 model but the ai-proxy provided by Anand sir only supports gpt-4o-mini. So should we just use gpt-4o-mini or use the OpenAI API for gpt3.5 turbo?",
+    "image": "file://project-tds-virtual-ta-q1.webp"
+}
+

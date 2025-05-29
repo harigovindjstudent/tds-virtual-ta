@@ -1,0 +1,2053 @@
+[
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science - Jan 2025",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=tools-in-data-science-jan-2025"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science - Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science - Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science is a practical diploma level data science course at IIT Madras that teaches popular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
+    "links": [
+      "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course exposes you to real-life tools\nCourses teach you programming and data science. From statistics to algorithms to writing Python code to building models.\nBut one critical subject that’s rarely covered is: what tools should I pick and how do I become proficient in them?\nThese tools might not help your CV much. But they will make things easier in real life. For example, at school:\nYou learn from pristine datasets. But in the industry, you’ll have to scrape them yourself.\nYou learn how to train models. But soon, you’ll just pick something from HuggingFace.\nYou learn to write a log parser over weeks. Instead, your boss writes a sed + grep script in minutes.\n“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”\nIn this course, we’ve curated the most important tools people use in data science.\nLearn them well. You’ll be a lot more productive than your peers.",
+    "links": [
+      "https://explainxkcd.com/224/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course exposes you to real-life tools"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course exposes you to real-life tools"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "But one critical subject that’s rarely covered is: what tools should I pick and how do I become proficient in them?"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "These tools might not help your CV much. But they will make things easier in real life. For example, at school:"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You learn from pristine datasets. But in the industry, you’ll have to scrape them yourself.\nYou learn how to train models. But soon, you’ll just pick something from HuggingFace.\nYou learn to write a log parser over weeks. Instead, your boss writes a sed + grep script in minutes."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You learn from pristine datasets. But in the industry, you’ll have to scrape them yourself."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You learn how to train models. But soon, you’ll just pick something from HuggingFace."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You learn to write a log parser over weeks. Instead, your boss writes a sed + grep script in minutes."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "sed"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "grep"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+    "links": [
+      "https://explainxkcd.com/224/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "In this course, we’ve curated the most important tools people use in data science."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Learn them well. You’ll be a lot more productive than your peers."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "lot more productive"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "lot"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course is quite hard\nHere’s students’ feedback:\nIt used to be an easy course until 2024. # # #\nNow it’s hard and covers more. Take it in your last semester if possible. # # #\nPlan extra time. It takes more time than typical 3-credit courses. # # #\nLLMs grade you – unpredictably. # #\nThe ROE is hard. #\nTake Graded assignment 1 to check if you’re ready for this course. Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194",
+      "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681",
+      "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45",
+      "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60",
+      "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand",
+      "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7",
+      "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10",
+      "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9",
+      "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course is quite hard"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course is quite hard"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Here’s students’ feedback:"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "It used to be an easy course until 2024. # # #\nNow it’s hard and covers more. Take it in your last semester if possible. # # #\nPlan extra time. It takes more time than typical 3-credit courses. # # #\nLLMs grade you – unpredictably. # #\nThe ROE is hard. #",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194",
+      "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681",
+      "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45",
+      "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60",
+      "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand",
+      "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7",
+      "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10",
+      "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9",
+      "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "It used to be an easy course until 2024. # # #",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194",
+      "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681",
+      "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "used"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Now it’s hard and covers more. Take it in your last semester if possible. # # #",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45",
+      "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60",
+      "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Plan extra time. It takes more time than typical 3-credit courses. # # #",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4",
+      "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "LLMs grade you – unpredictably. # #",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10",
+      "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "The ROE is hard. #",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "#"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Take Graded assignment 1 to check if you’re ready for this course. Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Take Graded assignment 1 to check if you’re ready for this course.",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Take Graded assignment 1"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Programming skills are a pre-requisite\nYou need a good understanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.\nBut isn’t this a data science course? Yes. Good data scientists are good programmers. Data scientists don’t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.\nIn some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are, some of the time, you need to write code for all of this yourself.\nThis course teaches you tools that will make you more productive. But you do need programming to learn many of them."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Programming skills are a pre-requisite"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Programming skills are a pre-requisite"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You need a good understanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "good"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "But isn’t this a data science course? Yes. Good data scientists are good programmers. Data scientists don’t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "But isn’t this a data science course?"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are, some of the time, you need to write code for all of this yourself."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "some"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "This course teaches you tools that will make you more productive. But you do need programming to learn many of them."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "do"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "We encourage learning by sharing\nYou CAN copy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).\nWhy should you copy? Because in real life, there’s no time to re-invent the wheel. You’ll be working in teams on the shoulders of giants. It’s important to learn how to do that well.\nTo learn well, understand what you’re copying. If you’re short of time, prioritize.\nTo learn better, teach what you’ve learnt."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "We encourage learning by sharing"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "We encourage learning by sharing"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You CAN copy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam)."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "CAN"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Why should you copy? Because in real life, there’s no time to re-invent the wheel. You’ll be working in teams on the shoulders of giants. It’s important to learn how to do that well."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Why should you copy?"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "To learn well, understand what you’re copying. If you’re short of time, prioritize."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "To learn well, understand"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "To learn better, teach what you’ve learnt."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "To learn better, teach"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "We cover 7 modules in 12 weeks",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=we-cover-7-modules-in-12-weeks"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "We cover 7 modules in 12 weeks"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "We cover 7 modules in 12 weeks"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "The content evolves with technology and feedback. Track the commit history for changes.",
+    "links": [
+      "https://github.com/sanand0/tools-in-data-science-public/commits/tds-2025-01/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "commit history"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Released content:"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Development Tools and concepts to build models and apps. Discussion Thread\nDeployment Tools and concepts to publish what you built. Discussion Thread\nLarge Language Models that make your work easier and your apps smarter. Discussion Thread\nData Sourcing to get data from the web, files, and databases. Discussion Thread\nData Preparation to clean up and convert the inputs to the right format. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/development-tools",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083",
+      "https://tds.s-anand.net/#/deployment-tools",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083",
+      "https://tds.s-anand.net/#/large-language-models",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247",
+      "https://tds.s-anand.net/#/data-sourcing",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959",
+      "https://tds.s-anand.net/#/data-preparation",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Development Tools and concepts to build models and apps. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/development-tools",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Development Tools",
+    "links": [
+      "https://tds.s-anand.net/#/development-tools"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Development Tools"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "build"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Discussion Thread"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Deployment Tools and concepts to publish what you built. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/deployment-tools",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Deployment Tools",
+    "links": [
+      "https://tds.s-anand.net/#/deployment-tools"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Deployment Tools"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "publish"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Discussion Thread"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Large Language Models that make your work easier and your apps smarter. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/large-language-models",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Large Language Models",
+    "links": [
+      "https://tds.s-anand.net/#/large-language-models"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Large Language Models"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Discussion Thread"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Sourcing to get data from the web, files, and databases. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/data-sourcing",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Sourcing",
+    "links": [
+      "https://tds.s-anand.net/#/data-sourcing"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Sourcing"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Discussion Thread"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Preparation to clean up and convert the inputs to the right format. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/data-preparation",
+      "https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Preparation",
+    "links": [
+      "https://tds.s-anand.net/#/data-preparation"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Preparation"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Discussion Thread"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Project 1 to build an LLM-based automation agent. Discussion Thread",
+    "links": [
+      "https://tds.s-anand.net/#/project-1",
+      "https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Project 1",
+    "links": [
+      "https://tds.s-anand.net/#/project-1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Project 1"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Discussion Thread"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Work in progress:"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Analysis to find surprising insights in the data.\nData Visualization to communicate those insights as visual stories.",
+    "links": [
+      "https://tds.s-anand.net/#/data-analysis",
+      "https://tds.s-anand.net/#/data-visualization"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Analysis to find surprising insights in the data.",
+    "links": [
+      "https://tds.s-anand.net/#/data-analysis"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Analysis",
+    "links": [
+      "https://tds.s-anand.net/#/data-analysis"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Analysis"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Visualization to communicate those insights as visual stories.",
+    "links": [
+      "https://tds.s-anand.net/#/data-visualization"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Visualization",
+    "links": [
+      "https://tds.s-anand.net/#/data-visualization"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Data Visualization"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Evaluations are mostly open Internet",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=evaluations-are-mostly-open-internet"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Evaluations are mostly open Internet"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Evaluations are mostly open Internet"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Exam Type Weight Release Date Submission Date\nGA: Graded assignments Best 4 out of 7 ‡ 15%\nGraded Assignment 1 Online open MCQ 30 Dec 2024 26 Jan 2025\nGraded Assignment 2 Online open MCQ 3 Jan 2025 2 Feb 2025\nGraded Assignment 3 Online open MCQ 15 Jan 2025 5 Feb 2025\nGraded Assignment 4 Online open MCQ 31 Jan 2025 9 Feb 2025\nP1: Project 1 Take-home open-Internet 20% 19 Jan 2025 16 Feb 2025\nGraded Assignment 5 Online open MCQ 7 Feb 2025 21 Feb 2025\nGraded Assignment 6 Online open MCQ 28 Feb 2025 16 Mar 2025\nP2: Project 2 Take-home open-Internet 20% 3 Mar 2025 31 Mar 2025\nGraded Assignment 7 Online open MCQ 14 Mar 2025 26 Mar 2025\nROE: Remote Online Exam Online open-Internet MCQ 20% 02 Mar 2025 13:00 02 Mar 2025 13:45\nF: Final end-term In-person, no internet, mandatory 25% 13 Apr 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga2",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga3",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga4",
+      "https://tds.s-anand.net/#/project-1",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga5",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23",
+      "https://tds.s-anand.net/#/project-2",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=15&type=assignment&tab=courses&unitId=26",
+      "https://exam.sanand.workers.dev/tds-2025-01-roe"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Exam Type Weight Release Date Submission Date\nGA: Graded assignments Best 4 out of 7 ‡ 15%\nGraded Assignment 1 Online open MCQ 30 Dec 2024 26 Jan 2025\nGraded Assignment 2 Online open MCQ 3 Jan 2025 2 Feb 2025\nGraded Assignment 3 Online open MCQ 15 Jan 2025 5 Feb 2025\nGraded Assignment 4 Online open MCQ 31 Jan 2025 9 Feb 2025\nP1: Project 1 Take-home open-Internet 20% 19 Jan 2025 16 Feb 2025\nGraded Assignment 5 Online open MCQ 7 Feb 2025 21 Feb 2025\nGraded Assignment 6 Online open MCQ 28 Feb 2025 16 Mar 2025\nP2: Project 2 Take-home open-Internet 20% 3 Mar 2025 31 Mar 2025\nGraded Assignment 7 Online open MCQ 14 Mar 2025 26 Mar 2025\nROE: Remote Online Exam Online open-Internet MCQ 20% 02 Mar 2025 13:00 02 Mar 2025 13:45\nF: Final end-term In-person, no internet, mandatory 25% 13 Apr 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga2",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga3",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga4",
+      "https://tds.s-anand.net/#/project-1",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga5",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23",
+      "https://tds.s-anand.net/#/project-2",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=15&type=assignment&tab=courses&unitId=26",
+      "https://exam.sanand.workers.dev/tds-2025-01-roe"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Exam Type Weight Release Date Submission Date"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Exam Type Weight Release Date Submission Date"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Exam"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Type"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Weight"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Release Date"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Submission Date"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "GA: Graded assignments Best 4 out of 7 ‡ 15%\nGraded Assignment 1 Online open MCQ 30 Dec 2024 26 Jan 2025\nGraded Assignment 2 Online open MCQ 3 Jan 2025 2 Feb 2025\nGraded Assignment 3 Online open MCQ 15 Jan 2025 5 Feb 2025\nGraded Assignment 4 Online open MCQ 31 Jan 2025 9 Feb 2025\nP1: Project 1 Take-home open-Internet 20% 19 Jan 2025 16 Feb 2025\nGraded Assignment 5 Online open MCQ 7 Feb 2025 21 Feb 2025\nGraded Assignment 6 Online open MCQ 28 Feb 2025 16 Mar 2025\nP2: Project 2 Take-home open-Internet 20% 3 Mar 2025 31 Mar 2025\nGraded Assignment 7 Online open MCQ 14 Mar 2025 26 Mar 2025\nROE: Remote Online Exam Online open-Internet MCQ 20% 02 Mar 2025 13:00 02 Mar 2025 13:45\nF: Final end-term In-person, no internet, mandatory 25% 13 Apr 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga2",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga3",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga4",
+      "https://tds.s-anand.net/#/project-1",
+      "https://exam.sanand.workers.dev/tds-2025-01-ga5",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23",
+      "https://tds.s-anand.net/#/project-2",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=15&type=assignment&tab=courses&unitId=26",
+      "https://exam.sanand.workers.dev/tds-2025-01-roe"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "GA: Graded assignments Best 4 out of 7 ‡ 15%"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "GA: Graded assignments"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Best 4 out of 7 ‡"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "15%"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1 Online open MCQ 30 Dec 2024 26 Jan 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "30 Dec 2024"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "26 Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 2 Online open MCQ 3 Jan 2025 2 Feb 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 2",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 2"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "3 Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "2 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 3 Online open MCQ 15 Jan 2025 5 Feb 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga3"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 3",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga3"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 3"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "15 Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "5 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 4 Online open MCQ 31 Jan 2025 9 Feb 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga4"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 4",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga4"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 4"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "31 Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "9 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "P1: Project 1 Take-home open-Internet 20% 19 Jan 2025 16 Feb 2025",
+    "links": [
+      "https://tds.s-anand.net/#/project-1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "P1: Project 1",
+    "links": [
+      "https://tds.s-anand.net/#/project-1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "P1: Project 1"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Take-home open-Internet"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "20%"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "19 Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "16 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 5 Online open MCQ 7 Feb 2025 21 Feb 2025",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga5"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 5",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga5"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 5"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "7 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "21 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 6 Online open MCQ 28 Feb 2025 16 Mar 2025",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 6",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 6"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "28 Feb 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "16 Mar 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "P2: Project 2 Take-home open-Internet 20% 3 Mar 2025 31 Mar 2025",
+    "links": [
+      "https://tds.s-anand.net/#/project-2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "P2: Project 2",
+    "links": [
+      "https://tds.s-anand.net/#/project-2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "P2: Project 2"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Take-home open-Internet"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "20%"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "3 Mar 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "31 Mar 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 7 Online open MCQ 14 Mar 2025 26 Mar 2025",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=15&type=assignment&tab=courses&unitId=26"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 7",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=15&type=assignment&tab=courses&unitId=26"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 7"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "14 Mar 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "26 Mar 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "ROE: Remote Online Exam Online open-Internet MCQ 20% 02 Mar 2025 13:00 02 Mar 2025 13:45",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-roe"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "ROE: Remote Online Exam",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-roe"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "ROE: Remote Online Exam"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Online open-Internet MCQ"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "20%"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "02 Mar 2025 13:00"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "02 Mar 2025 13:45"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "F: Final end-term In-person, no internet, mandatory 25% 13 Apr 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "F: Final end-term"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "In-person, no internet, mandatory"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "25%"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "13 Apr 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Updates",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=updates"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Updates"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Updates"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "13 Jan 2025: GA3 release date moved from 10 Jan 2025 to 15 Jan 2025 due to faculty delay. Students have till 2 Feb 2025 - more than the 10 days expected for a GA.\n22 Jan 2025: GA2 submission date moved from 26 Jan 2025 to 2 Feb 2025. GA4 release date is moved from 24 Jan 2025 to 31 Jan 2025. This is to reduce the amount students have to learn in a short period.\n29 Jan 2025: GA3 submission date moved from 2 Feb 2025 to 5 Feb 2025.\n13 Feb 2025: GA5 submission date moved from 16 Feb 2025 to 21 Feb 2025.\n15 Feb 2025: Project 1 deadline moved from 15 Jan 2025 to 16 Feb 2025.\n26 Feb 2025:\nProject 1 results will be released by 16 Mar 2025.\nGraded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.\nProject 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.\nGraded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.\n7 Mar 2025: GA7 release date moved from 7 Mar to 14 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "13 Jan 2025: GA3 release date moved from 10 Jan 2025 to 15 Jan 2025 due to faculty delay. Students have till 2 Feb 2025 - more than the 10 days expected for a GA."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "22 Jan 2025: GA2 submission date moved from 26 Jan 2025 to 2 Feb 2025. GA4 release date is moved from 24 Jan 2025 to 31 Jan 2025. This is to reduce the amount students have to learn in a short period."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "29 Jan 2025: GA3 submission date moved from 2 Feb 2025 to 5 Feb 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "13 Feb 2025: GA5 submission date moved from 16 Feb 2025 to 21 Feb 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "15 Feb 2025: Project 1 deadline moved from 15 Jan 2025 to 16 Feb 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "26 Feb 2025:\nProject 1 results will be released by 16 Mar 2025.\nGraded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.\nProject 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.\nGraded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Project 1 results will be released by 16 Mar 2025.\nGraded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.\nProject 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.\nGraded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Project 1 results will be released by 16 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Project 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "7 Mar 2025: GA7 release date moved from 7 Mar to 14 Mar 2025."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Notes",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=notes"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Notes"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Notes"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1 checks course pre-requisites. Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.\n‡ Graded Assignments: Best 4 out 7. We’ll take the best 4 out of your graded assignments submissions. These, combined, will have a 15% weightage.\nRemote exams are open and hard\nYou can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…\nThe RoE is especially hard. Read: What is the purpose of an impossible RoE exam?\nFinal exam is in-person and closed book. It tests your memory. It’s easy.\nProjects test application. The projects test how well you apply what you learnt in a real-world context.\nBonus activities may be posted on Discourse. See previous bonus activities\nEvaluations are mostly automated. This course uses pre-computed (for objective) or LLMs (for subjective) evaluations.\nLLMs will evaluate you differently each time. Learn to prompt them robustly to get higher marks.",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1",
+      "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2",
+      "https://discourse.onlinedegree.iitm.ac.in/tags/c/courses/tds-kb/34/bonus-marks"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1 checks course pre-requisites. Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1 checks course pre-requisites",
+    "links": [
+      "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignment 1"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "‡ Graded Assignments: Best 4 out 7. We’ll take the best 4 out of your graded assignments submissions. These, combined, will have a 15% weightage."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Graded Assignments: Best 4 out 7"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Remote exams are open and hard\nYou can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…\nThe RoE is especially hard. Read: What is the purpose of an impossible RoE exam?",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Remote exams are open and hard"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…\nThe RoE is especially hard. Read: What is the purpose of an impossible RoE exam?",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "You can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "The RoE is especially hard. Read: What is the purpose of an impossible RoE exam?",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "What is the purpose of an impossible RoE exam?"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Final exam is in-person and closed book. It tests your memory. It’s easy."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Final exam is in-person and closed book"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Projects test application. The projects test how well you apply what you learnt in a real-world context."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Projects test application"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Bonus activities may be posted on Discourse. See previous bonus activities",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/tags/c/courses/tds-kb/34/bonus-marks"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Bonus activities may be posted on Discourse"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "previous bonus activities"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Evaluations are mostly automated. This course uses pre-computed (for objective) or LLMs (for subjective) evaluations.\nLLMs will evaluate you differently each time. Learn to prompt them robustly to get higher marks."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Evaluations are mostly automated"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "LLMs will evaluate you differently each time. Learn to prompt them robustly to get higher marks."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "LLMs will evaluate you differently each time. Learn to prompt them robustly to get higher marks."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "robustly"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Constantly check communications",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=constantly-check-communications"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Constantly check communications"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Constantly check communications"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Check these three links regularly to keep up with the course."
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Seek Inbox for Course Announcements. Log into seek.onlinedegree.iitm.ac.in and click on “Inbox” on the left. Check notifications daily.\nYour email for Course Announcements. Seek Inbox are forwarded to your email. Check daily. Check spam folders too.\nTDS Discourse: Faculty, instructors, and TAs will share updates and address queries here. Email support@study.iitm.ac.in cc: discourse-staff1@study.iitm.ac.in if you can’t access Discourse.",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/",
+      "https://seek.onlinedegree.iitm.ac.in/",
+      "https://mail.google.com/",
+      "https://tds.s-anand.net/seek.onlinedegree.iitm.ac.in/",
+      "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34",
+      "mailto:support@study.iitm.ac.in",
+      "mailto:discourse-staff1@study.iitm.ac.in"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Seek Inbox for Course Announcements. Log into seek.onlinedegree.iitm.ac.in and click on “Inbox” on the left. Check notifications daily.",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/",
+      "https://seek.onlinedegree.iitm.ac.in/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Seek Inbox",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Seek Inbox"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "seek.onlinedegree.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Your email for Course Announcements. Seek Inbox are forwarded to your email. Check daily. Check spam folders too.",
+    "links": [
+      "https://mail.google.com/",
+      "https://tds.s-anand.net/seek.onlinedegree.iitm.ac.in/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Your email",
+    "links": [
+      "https://mail.google.com/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Your email"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Seek"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS Discourse: Faculty, instructors, and TAs will share updates and address queries here. Email support@study.iitm.ac.in cc: discourse-staff1@study.iitm.ac.in if you can’t access Discourse.",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34",
+      "mailto:support@study.iitm.ac.in",
+      "mailto:discourse-staff1@study.iitm.ac.in"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS Discourse",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS Discourse"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "support@study.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "discourse-staff1@study.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "People who help you",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=people-who-help-you"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "People who help you"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "People who help you"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Faculty (who design the course)\nAnand S, s.anand@gramener.com | @s.anand\nInstructors (who teach the course)\nCarlton D’Silva. 22f3001919@ds.study.iitm.ac.in | @carlton\nPrasanna S, prasanna@study.iitm.ac.in | @iamprasna\nTeaching assistants (who help you with your doubts)\nJivraj Singh, 22f3002542@ds.study.iitm.ac.in | @Jivraj | LinkedIn Profile\nSaransh Saini, 22f1001123@ds.study.iitm.ac.in | @Saransh_Saini | LinkedIn Profile\nVirtual TA (GPT Instructions)",
+    "links": [
+      "https://www.linkedin.com/in/sanand0/",
+      "mailto:s.anand@gramener.com",
+      "https://discourse.onlinedegree.iitm.ac.in/u/s.anand",
+      "mailto:22f3001919@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/carlton",
+      "https://www.linkedin.com/in/prasanna-sugumaran-ab980222/",
+      "mailto:prasanna@study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna",
+      "mailto:22f3002542@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/jivraj",
+      "https://www.linkedin.com/in/jivraj-singh-shekhawat-92a547269/",
+      "mailto:22f1001123@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini",
+      "https://www.linkedin.com/in/saranshsaini48/",
+      "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant",
+      "https://tds.s-anand.net/#/tds-ta-instructions"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Faculty (who design the course)\nAnand S, s.anand@gramener.com | @s.anand",
+    "links": [
+      "https://www.linkedin.com/in/sanand0/",
+      "mailto:s.anand@gramener.com",
+      "https://discourse.onlinedegree.iitm.ac.in/u/s.anand"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Faculty"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Anand S, s.anand@gramener.com | @s.anand",
+    "links": [
+      "https://www.linkedin.com/in/sanand0/",
+      "mailto:s.anand@gramener.com",
+      "https://discourse.onlinedegree.iitm.ac.in/u/s.anand"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Anand S, s.anand@gramener.com | @s.anand",
+    "links": [
+      "https://www.linkedin.com/in/sanand0/",
+      "mailto:s.anand@gramener.com",
+      "https://discourse.onlinedegree.iitm.ac.in/u/s.anand"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Anand S"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "s.anand@gramener.com"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "@s.anand"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Instructors (who teach the course)\nCarlton D’Silva. 22f3001919@ds.study.iitm.ac.in | @carlton\nPrasanna S, prasanna@study.iitm.ac.in | @iamprasna",
+    "links": [
+      "mailto:22f3001919@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/carlton",
+      "https://www.linkedin.com/in/prasanna-sugumaran-ab980222/",
+      "mailto:prasanna@study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Instructors"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Carlton D’Silva. 22f3001919@ds.study.iitm.ac.in | @carlton\nPrasanna S, prasanna@study.iitm.ac.in | @iamprasna",
+    "links": [
+      "mailto:22f3001919@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/carlton",
+      "https://www.linkedin.com/in/prasanna-sugumaran-ab980222/",
+      "mailto:prasanna@study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Carlton D’Silva. 22f3001919@ds.study.iitm.ac.in | @carlton",
+    "links": [
+      "mailto:22f3001919@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/carlton"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "22f3001919@ds.study.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "@carlton"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Prasanna S, prasanna@study.iitm.ac.in | @iamprasna",
+    "links": [
+      "https://www.linkedin.com/in/prasanna-sugumaran-ab980222/",
+      "mailto:prasanna@study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Prasanna S"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "prasanna@study.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "@iamprasna"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Teaching assistants (who help you with your doubts)\nJivraj Singh, 22f3002542@ds.study.iitm.ac.in | @Jivraj | LinkedIn Profile\nSaransh Saini, 22f1001123@ds.study.iitm.ac.in | @Saransh_Saini | LinkedIn Profile\nVirtual TA (GPT Instructions)",
+    "links": [
+      "mailto:22f3002542@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/jivraj",
+      "https://www.linkedin.com/in/jivraj-singh-shekhawat-92a547269/",
+      "mailto:22f1001123@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini",
+      "https://www.linkedin.com/in/saranshsaini48/",
+      "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant",
+      "https://tds.s-anand.net/#/tds-ta-instructions"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Teaching assistants"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jivraj Singh, 22f3002542@ds.study.iitm.ac.in | @Jivraj | LinkedIn Profile\nSaransh Saini, 22f1001123@ds.study.iitm.ac.in | @Saransh_Saini | LinkedIn Profile\nVirtual TA (GPT Instructions)",
+    "links": [
+      "mailto:22f3002542@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/jivraj",
+      "https://www.linkedin.com/in/jivraj-singh-shekhawat-92a547269/",
+      "mailto:22f1001123@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini",
+      "https://www.linkedin.com/in/saranshsaini48/",
+      "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant",
+      "https://tds.s-anand.net/#/tds-ta-instructions"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jivraj Singh, 22f3002542@ds.study.iitm.ac.in | @Jivraj | LinkedIn Profile",
+    "links": [
+      "mailto:22f3002542@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/jivraj",
+      "https://www.linkedin.com/in/jivraj-singh-shekhawat-92a547269/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "22f3002542@ds.study.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "@Jivraj"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "LinkedIn Profile"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Saransh Saini, 22f1001123@ds.study.iitm.ac.in | @Saransh_Saini | LinkedIn Profile",
+    "links": [
+      "mailto:22f1001123@ds.study.iitm.ac.in",
+      "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini",
+      "https://www.linkedin.com/in/saranshsaini48/"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "22f1001123@ds.study.iitm.ac.in"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "@Saransh_Saini"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "LinkedIn Profile"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Virtual TA (GPT Instructions)",
+    "links": [
+      "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant",
+      "https://tds.s-anand.net/#/tds-ta-instructions"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Virtual TA"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "GPT Instructions"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Their job is to help you. Trouble them for your slightest doubts!"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "job"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Course Links",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=course-links"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Course Links"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Course Links"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS Discourse - Ask questions, get help, and discuss with your peers.\nIITM BS Degree Programme - Student Handbook\nTools in Data Science Public course home page",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34",
+      "https://docs.google.com/document/u/1/d/e/2PACX-1vQB7SYIXQPJr0-WcfekVVSt488MdlkNzRUPacbRh2QgOALXcinPybopWIFlY83tdr_mH1QtrhCIsFUq/pub",
+      "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS Discourse - Ask questions, get help, and discuss with your peers.",
+    "links": [
+      "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS Discourse"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "IITM BS Degree Programme - Student Handbook",
+    "links": [
+      "https://docs.google.com/document/u/1/d/e/2PACX-1vQB7SYIXQPJr0-WcfekVVSt488MdlkNzRUPacbRh2QgOALXcinPybopWIFlY83tdr_mH1QtrhCIsFUq/pub"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "IITM BS Degree Programme - Student Handbook"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science Public course home page",
+    "links": [
+      "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Tools in Data Science Public course home page"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jan 2025 Links",
+    "links": [
+      "https://tds.s-anand.net/#/2025-01?id=jan-2025-links"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jan 2025 Links"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jan 2025 Links"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jan 2025 Grading Document.\nTDS: Course page - Jan 2025 – for students to access course content.\nTDS: Course calendar - Jan 2025\nTDS: Announcement group - Jan 2025\nTDS: Course material – Jupyter notebooks, datasets, etc.\nTDS: TA Sessions - Jan 2025 – YouTube playlist",
+    "links": [
+      "https://tds.s-anand.net/[https://docs.google.com/document/d/1e1l9ERBGYoS2jhKZHcTP6zZUH_NLzJv99xdcyi21Z1Y/pub](https://docs.google.com/document/d/e/2PACX-1vRBH1NuM3ML6MH5wfL2xPiPsiXV0waKlUUEj6C7LrHrARNUsAEA1sT2r7IHcFKi8hvQ45gSrREnFiTT/pub",
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002",
+      "https://calendar.google.com/calendar/u/0/r?cid=Y19ib2Y3bnMxbDduNm84azA1dHA4YTlxNWIwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+      "https://groups.google.com/a/study.iitm.ac.in/g/25t1_se2002-announce",
+      "https://drive.google.com/drive/folders/1FE0YPAxcxMzZdjnp3FopuJCI3A2Vq6fC?usp=drive_link",
+      "https://www.youtube.com/playlist?list=PL_h5u1jMeBCl1BquBhgunA4t08XAxsA-C"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jan 2025 Grading Document.",
+    "links": [
+      "https://tds.s-anand.net/[https://docs.google.com/document/d/1e1l9ERBGYoS2jhKZHcTP6zZUH_NLzJv99xdcyi21Z1Y/pub](https://docs.google.com/document/d/e/2PACX-1vRBH1NuM3ML6MH5wfL2xPiPsiXV0waKlUUEj6C7LrHrARNUsAEA1sT2r7IHcFKi8hvQ45gSrREnFiTT/pub"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "Jan 2025 Grading Document"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Course page - Jan 2025 – for students to access course content.",
+    "links": [
+      "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Course page - Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Course calendar - Jan 2025",
+    "links": [
+      "https://calendar.google.com/calendar/u/0/r?cid=Y19ib2Y3bnMxbDduNm84azA1dHA4YTlxNWIwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Course calendar - Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Announcement group - Jan 2025",
+    "links": [
+      "https://groups.google.com/a/study.iitm.ac.in/g/25t1_se2002-announce"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Announcement group - Jan 2025"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Course material – Jupyter notebooks, datasets, etc.",
+    "links": [
+      "https://drive.google.com/drive/folders/1FE0YPAxcxMzZdjnp3FopuJCI3A2Vq6fC?usp=drive_link"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: Course material"
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: TA Sessions - Jan 2025 – YouTube playlist",
+    "links": [
+      "https://www.youtube.com/playlist?list=PL_h5u1jMeBCl1BquBhgunA4t08XAxsA-C"
+    ]
+  },
+  {
+    "source": "tds-content",
+    "date": "2025-01-01",
+    "content": "TDS: TA Sessions - Jan 2025"
+  }
+]

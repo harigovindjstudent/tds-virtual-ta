@@ -59,7 +59,7 @@ def retrieve_relevant_docs(question: str, top_k: int = 5) -> List[dict]:
 
 def call_ollama(prompt: str) -> str:
     result = subprocess.run(
-        ["ollama", "run", "llama3", "--no-cache"],
+        ["ollama", "run", "llama3"],
         input=prompt,
         capture_output=True,
         text=True,

@@ -1,1 +1,17 @@
-.env
+# Environment variables
+.env*
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+.venv/
+
+# Qdrant vector database storage
+qdrant_storage/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

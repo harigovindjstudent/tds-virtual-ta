@@ -2,8 +2,10 @@ import json
 import os
 import subprocess
 from typing import Optional, Tuple, List
-from urllib.parse import urlparse
 from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer
+import qdrant_client
+from qdrant_client.http.models import Filter, SearchRequest, PointStruct, VectorParams, Distance
 
 # Load environment variables
 load_dotenv()
@@ -24,29 +26,15 @@ def load_data():
 
 DOCUMENTS = load_data()
 
-def normalize_url(url: str) -> str:
-    try:
-        parsed = urlparse(url)
-        if "/t/" in parsed.path:
-            parts = parsed.path.split("/")
-            if len(parts) > 4 and parts[-1].isdigit():
-                parts = parts[:-1]
-            normalized_path = "/".join(parts)
-            return f"{parsed.scheme}://{parsed.netloc}{normalized_path}"
-    except Exception:
-        pass
-    return url
+# Load model globally
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+# Load Qdrant client globally
+qdrant_host = os.getenv("QDRANT_URL", "http://localhost:6333")
+qdrant_collection = os.getenv("QDRANT_COLLECTION", "tds_docs")
+client = qdrant_client.QdrantClient(url=qdrant_host)
 
 def retrieve_relevant_docs(question: str, top_k: int = 5) -> List[dict]:
-    from sentence_transformers import SentenceTransformer
-    import qdrant_client
-    from qdrant_client.http.models import Distance
-
-    qdrant_host = os.getenv("QDRANT_URL", "http://localhost:6333")
-    qdrant_collection = os.getenv("QDRANT_COLLECTION", "tds_docs")
-
-    client = qdrant_client.QdrantClient(url=qdrant_host)
-    model = SentenceTransformer("all-MiniLM-L6-v2")
     question_vector = model.encode(question).tolist()
 
     hits = client.search(
@@ -78,7 +66,9 @@ def get_answer(question: str, image: Optional[str] = None) -> Tuple[str, List[di
     prompt = f"""
 You are a helpful TA answering student questions from the Tools in Data Science course.
 Use the context below to answer the question clearly and briefly.
-If possible, cite specific URLs. 
+If possible, cite specific URLs.
+Use only the provided context. If the answer is not in the context, state that you cannot answer based on the given information.
+
 Context:
 {context}
 
@@ -86,24 +76,19 @@ Question: {question}
 Answer:
 """
 
-    print("🧠 Final Prompt:\n", prompt)  # Log the prompt being sent to Ollama
-
     answer = call_ollama(prompt)
 
+    # Collect unique links from the relevant docs
     seen = set()
     links = []
     for doc in relevant_docs:
-        if "url" in doc:
-            url = normalize_url(doc["url"])
-            if url not in seen:
-                links.append({"url": url, "text": "Related reference"})
-                seen.add(url)
+        if "url" in doc and doc["url"] not in seen:
+            links.append({"url": doc["url"], "text": "Related reference"})
+            seen.add(doc["url"])
         elif "links" in doc:
             for url in doc["links"]:
-                if isinstance(url, str):
-                    url = normalize_url(url)
-                    if url not in seen:
-                        links.append({"url": url, "text": "Related reference"})
-                        seen.add(url)
+                if isinstance(url, str) and url not in seen:
+                    links.append({"url": url, "text": "Related reference"})
+                    seen.add(url)
 
     return answer, links

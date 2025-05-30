@@ -3,12 +3,13 @@ import time
 import json
 from datetime import datetime
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from dotenv import load_dotenv
+import requests
 
-# Load credentials from .env
+# Load credentials
 load_dotenv()
 EMAIL = os.getenv("DISCOURSE_EMAIL")
 PASSWORD = os.getenv("DISCOURSE_PASSWORD")
@@ -33,16 +34,13 @@ def login(driver):
     print("✅ Logged in!")
 
 
-def scroll_to_bottom(driver, wait_time=2):
+def scroll_to_bottom(driver):
     last_height = driver.execute_script("return document.body.scrollHeight")
-    start_time = time.time()
     while True:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(wait_time)
+        time.sleep(2)
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
-            break
-        if time.time() - start_time > 60:
             break
         last_height = new_height
 
@@ -74,40 +72,47 @@ def extract_discourse_posts(driver):
         except Exception as e:
             print(f"⚠️ Skipping row due to error: {e}")
 
-    filtered_posts = []
+    session = requests.Session()
+    for cookie in driver.get_cookies():
+        session.cookies.set(cookie['name'], cookie['value'])
+
+    all_posts = []
 
     for post in posts:
-        try:
-            driver.get(post["url"])
-            scroll_to_bottom(driver, wait_time=2)
-            time.sleep(2)
+        print(f"📚 Scraping: {post['title']}")
+        page = 1
+        while True:
+            json_url = f"{post['url']}.json?page={page}"
+            try:
+                response = session.get(json_url)
+                if response.status_code != 200:
+                    break
 
-            post_elements = driver.find_elements(By.TAG_NAME, "article")
-            for post_elem in post_elements:
-                try:
-                    driver.execute_script("arguments[0].scrollIntoView();", post_elem)
-                    time.sleep(1)
+                data = response.json()
+                posts_stream = data.get("post_stream", {}).get("posts", [])
+                if not posts_stream:
+                    break  # No more posts
 
-                    time_elem = post_elem.find_element(By.TAG_NAME, "time")
-                    timestamp = time_elem.get_attribute("datetime")
-                    created_at = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%S.%fZ")
-
+                for entry in posts_stream:
+                    created_at = datetime.strptime(entry["created_at"], "%Y-%m-%dT%H:%M:%S.%fZ")
                     if START_DATE <= created_at <= END_DATE:
-                        content_elem = post_elem.find_element(By.CLASS_NAME, "cooked")
-                        content_html = content_elem.get_attribute('innerHTML').strip()
-                        filtered_posts.append({
+                        content = entry.get("cooked", "").strip()
+                        parent = entry.get("reply_to_post_number")
+                        all_posts.append({
                             "source": "discourse",
                             "topic_title": post["title"],
                             "url": post["url"],
                             "date": created_at.isoformat(),
-                            "content": content_html
+                            "content": content,
+                            "post_number": entry.get("post_number"),
+                            "reply_to_post_number": parent  # Track parent post number
                         })
-                except Exception:
-                    continue
-        except Exception as e:
-            print(f"⚠️ Failed to fetch post content for {post['url']}: {e}")
+                page += 1
+            except Exception as e:
+                print(f"⚠️ Failed to fetch {json_url}: {e}")
+                break
 
-    return filtered_posts
+    return all_posts
 
 
 def extract_tds_content(driver):
